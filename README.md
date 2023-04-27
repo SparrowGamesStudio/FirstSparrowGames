@@ -4,7 +4,28 @@ tnp robo tps game
 - ## Step1 Githubのアカウント作成
   [ここ](https://github.com/signup?source=login)からGitHubのアカウントを作成し，ログイン
 - ## Step2 SourceTreeのインストール
-   [ここ](https://www.sourcetreeapp.com/)からSourceTreeをインストール
+   1\. [ここ](https://www.sourcetreeapp.com/)からSourceTreeをダウンロード 
+      1-1\. 以下の様にインストールを行う  
+      1-2\. スキップを押す  
+      ![sourcetree1](./description/sourcetree1.png)  
+      1-3\. 少なくともGitにチェックが入っていることを確認後，次へを押す  
+      ![sourcetree2](./description/sourcetree2.png)  
+      1-4\. Aouthor Name, Author Rmail Addressを入力し，次へ  
+              ※GitHubと同じものにしておいた方がスムーズに進むかも  
+              ![sourcetree3](./description/sourcetree3.png)  
+      1-5\.  SSHキーを読み込みますか？と出た場合はいいえを選択  
+      ![sourcetree4](./description/sourcetree4.png)  
+  2\. GitHubアカウントとの連携  
+      2-1\. 以下の画像の様にRemote→アカウントを追加をクリック  
+      ![sourcetree5](./description/sourcetree5.png)  
+      2-2\. ホスティングサービスにGitHubを選択した状態でOAuthトークンを再読み込みを押す  
+      ![sourcetree6](./description/sourcetree6.png)  
+      2-3\. ブラウザが開き，以下のような画面が出るのでAuthorize atlassianをクリック  
+      ![sourcetree7](./description/sourcetree7.png)  
+      2-4\. SourceTreeにも出ってきた後以下のような画面になってれば成功（黒塗り部分はGitHubのユーザー名が入る）  
+      ![sourcetree8](./description/sourcetree8.png)  
+      
+   
    
 - ## SparrowGamesStudioのリポジトリをSourceTreeのローカルリポジトリにクローン
   [この](https://rarafy.com/blog/2022/06/14/github-organization-not-correct-url/)サイトの解決の手順に従ってクローンを行う．  
