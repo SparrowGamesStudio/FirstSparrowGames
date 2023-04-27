@@ -45,5 +45,7 @@ tnp robo tps game
   
  - ## Step5 変更のステージからpushまで
       5-1\. step4でクローンしたリポジトリの中に'hoge.md'というファイルがあるのでそれをメモ帳か何かで開いて適当に入力して保存する．  
-      5-2\. 
-    
+      5-2\. 以下の画像の様に操作する
+      ![sourcetree10](./description/sourcetree10.png)  
+      ![sourcetree11](./description/sourcetree11.png)  
+      5-3\. GitHubに反映されていれば完了！
