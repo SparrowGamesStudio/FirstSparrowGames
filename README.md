@@ -13,4 +13,5 @@ tnp robo tps game
   ```
   https://（ここにトークンを入力）github.com/SparrowGamesStudio/FirstSparrowGames.git  
   ```
-  とする
+  とする.
+  cloneを押した際にいろいろな項目が出てきた場合windowsならwincred,MACならosxkeychainにチェックを入れるととても幸せ
